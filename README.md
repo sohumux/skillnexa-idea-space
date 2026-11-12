@@ -10,6 +10,7 @@ A responsive, high-performance, single-page React landing page for the **Idea Sp
 - **Workshop Eyebrow**: A practical creativity workshop
 - **Headline**: Make space for your next idea.
 - **Reference Mockups**: `Desktop_1440.svg` (1440px) & `Mobile_390.svg` (390px)
+- **GitHub Repository**: https://github.com/sohumux/skillnexa-idea-space
 - **Job ID**: `TlSMB6eI9miuLSBB4WIr`
 
 ---
