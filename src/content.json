@@ -1,0 +1,19 @@
+{
+  "brand": "Idea Space",
+  "eyebrow": "A practical creativity workshop",
+  "headline": "Make space for your next idea.",
+  "description": "Explore a simple process for shaping an idea, testing a first step, and planning what comes next.",
+  "cta": "Register your interest",
+  "benefitsHeading": "A clear path from thought to action",
+  "benefits": [
+    { "id": "clarity", "title": "Find your focus", "text": "Turn a broad interest into a clear starting point." },
+    { "id": "practice", "title": "Try a small step", "text": "Use a short exercise to explore your idea." },
+    { "id": "plan", "title": "Choose what is next", "text": "Leave with a practical next action." }
+  ],
+  "registrationHeading": "Start with a little curiosity.",
+  "registrationDescription": "Share your interest in an upcoming session.",
+  "consentLabel": "I agree to be contacted about this workshop.",
+  "buttonLabel": "Submit interest",
+  "successMessage": "Your interest has been recorded for this demo.",
+  "footer": "Idea Space | A little structure. A fresh perspective."
+}
